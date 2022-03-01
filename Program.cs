@@ -18,18 +18,13 @@ namespace aula225_Func
             list.Add(new Product("HD Case", 80.90));
 
             // ---- List to recive the names -----//
-            Func<Product, string> func = NameUpper;
+            Func<Product, string> func = product => product.Name.ToUpper();
 
             List<string> result = list.Select(func).ToList();
             foreach(string res in result)
             {
                 Console.WriteLine(res);
             }
-        }
-
-        static string NameUpper(Product product)
-        {
-            return product.Name.ToUpper();
         }
     }
 }
