@@ -1,0 +1,16 @@
+/mnt/c/Pedro/Courses/Curso-C#/aulas/aula225-Func/bin/Debug/net5.0/aula225-Func
+/mnt/c/Pedro/Courses/Curso-C#/aulas/aula225-Func/bin/Debug/net5.0/aula225-Func.deps.json
+/mnt/c/Pedro/Courses/Curso-C#/aulas/aula225-Func/bin/Debug/net5.0/aula225-Func.runtimeconfig.json
+/mnt/c/Pedro/Courses/Curso-C#/aulas/aula225-Func/bin/Debug/net5.0/aula225-Func.runtimeconfig.dev.json
+/mnt/c/Pedro/Courses/Curso-C#/aulas/aula225-Func/bin/Debug/net5.0/aula225-Func.dll
+/mnt/c/Pedro/Courses/Curso-C#/aulas/aula225-Func/bin/Debug/net5.0/ref/aula225-Func.dll
+/mnt/c/Pedro/Courses/Curso-C#/aulas/aula225-Func/bin/Debug/net5.0/aula225-Func.pdb
+/mnt/c/Pedro/Courses/Curso-C#/aulas/aula225-Func/obj/Debug/net5.0/aula225-Func.csproj.AssemblyReference.cache
+/mnt/c/Pedro/Courses/Curso-C#/aulas/aula225-Func/obj/Debug/net5.0/aula225-Func.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/Pedro/Courses/Curso-C#/aulas/aula225-Func/obj/Debug/net5.0/aula225-Func.AssemblyInfoInputs.cache
+/mnt/c/Pedro/Courses/Curso-C#/aulas/aula225-Func/obj/Debug/net5.0/aula225-Func.AssemblyInfo.cs
+/mnt/c/Pedro/Courses/Curso-C#/aulas/aula225-Func/obj/Debug/net5.0/aula225-Func.csproj.CoreCompileInputs.cache
+/mnt/c/Pedro/Courses/Curso-C#/aulas/aula225-Func/obj/Debug/net5.0/aula225-Func.dll
+/mnt/c/Pedro/Courses/Curso-C#/aulas/aula225-Func/obj/Debug/net5.0/ref/aula225-Func.dll
+/mnt/c/Pedro/Courses/Curso-C#/aulas/aula225-Func/obj/Debug/net5.0/aula225-Func.pdb
+/mnt/c/Pedro/Courses/Curso-C#/aulas/aula225-Func/obj/Debug/net5.0/aula225-Func.genruntimeconfig.cache
